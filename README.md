@@ -1,6 +1,6 @@
 # YT-Timestamp-Extension
 
-Steps to use the extension 
+**Steps to use the extension **
 
 1)Open a Terminal or Command Prompt and clone the repository using the command
 
